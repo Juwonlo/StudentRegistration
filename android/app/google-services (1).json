@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424321030892",
+    "firebase_url": "https://studentreg-105b4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "studentreg-105b4",
+    "storage_bucket": "studentreg-105b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424321030892:android:65de232cc08750402123c9",
+        "android_client_info": {
+          "package_name": "com.juwonlo.StudentReg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424321030892-qtrlstgg721oc3qotoq3edgo7e7p47ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByqCytCGbMJaYx6DFqTfZWLrM2NMl-N7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424321030892-qtrlstgg721oc3qotoq3edgo7e7p47ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
